@@ -23,7 +23,7 @@ public class baislide40HientThiNgay {
                 case 7:System.out.println("Thu Bay");
                 break;
                 default:System.out.println("khong la ngay nao");
-                    break;
+                break;
             }
         }while(Ngay>0&&Ngay<8);
 
