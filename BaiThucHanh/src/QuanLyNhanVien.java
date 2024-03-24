@@ -44,6 +44,5 @@ public class QuanLyNhanVien {
         QL.nhapNamSinh();
         QL.TinhTuoi();
         QL.InThongTin();
-
     }
 }
