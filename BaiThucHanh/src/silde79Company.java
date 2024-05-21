@@ -10,7 +10,7 @@ public class silde79Company {
         System.out.println("Ten =");
         System.out.println("Chuc Vu :");
         System.out.println("Luong Co Ban =");
-        System.out.printlm("Luong Lam Them=");
+        System.out.println("Luong Lam Them=");
         System.out.println("Thoi Gian Lam Them =");
         Scanner sc = new Scanner(System.in);
         Ten = sc.nextLine();
